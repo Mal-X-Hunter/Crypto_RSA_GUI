@@ -1,0 +1,8 @@
+1. add the text in plain text 
+2. press encrypt button 
+
+
+to decrypt text 
+1. take cipher text 
+2. add cipher text in decrypt label 
+3. press decrypt button  
